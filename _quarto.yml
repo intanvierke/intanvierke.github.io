@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: .
+
+website:
+  title: Intan M Vierke
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publikasi.qmd
+        text: Publication
+        
+
+
+        
+    
+
+#bibliography: reference.bib
+#nocite: |
+#  @*
+  
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
