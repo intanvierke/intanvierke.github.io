@@ -1,10 +1,8 @@
 ---
 title: "Intan M Vierke"
 about:
-  template: trestles
+  template: solana
   image: profile.png
-  image-width: 10em
-  image-shape: round
   links:
   - icon: twitter
     text: twitter
@@ -14,12 +12,25 @@ about:
     href: https://intanvierke.github.io
   - icon: instagram
     text: instagram
-    href: https://www.instagram.com/intanvierke/    
+    href: https://www.instagram.com/intanvierke/ 
+   
 format: html
 ---
 
-## Vierke
+
+##  About me 
 
 Dr. Intan Maria Lewiayu Vierke is a distinguished academician and industry expert with a robust educational background and extensive professional experience. Currently serving as a lecturer at Polytechnic APP Jakarta, a vocational higher education institution under the esteemed Ministry of Industry, which plays a pivotal role in shaping the educational landscape and preparing students for success in the dynamic world of industry. 
 
 Beyond her role as a lecturer, Intan actively contributes to a collaborative approach that fosters an environment of innovation and continuous improvement, ensuring that students receive a holistic education that prepares them for the challenges and opportunities of the future. Intan's distinguished career and unwavering commitment to the advancement of vocational education underscore her status as a respected authority in her field. 
+
+## Education
+
+IPB University | Bogor |Management Strategic  
+
+
+
+University of Indonesia | Depok | Master in Economics 
+
+ 
+
